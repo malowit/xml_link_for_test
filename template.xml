@@ -1,24 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2023-03-30 17:22">
-   <shop>
-      <merchant-id>MerchantID</merchant-id>
-      <offers>
-         <offer sku="12341">
-            <name>Мороженица Brand 3811</name>
-            <vendor>Brand</vendor>
-            <barcodes>
-               <barcode>0123456789379</barcode>
-            </barcodes>
-            <pickup-options>
-               <pickup-option id="PP-123" />
-               <pickup-option id="PP-124" />
-               <pickup-option id="PP-125" />
-            </pickup-options>
-            <delivery-options>
-               <delivery-option city-id="KZ-AST" cost="1000" days="6" />
-            </delivery-options>
-            <price>8990</price>
-         </offer>
-      </offers>
-   </shop>
+<fm_catalog date="2023-03-30 10:22">
+<shop>
+<merchant-id>AD4yb1z5eEM4TsBc48</merchant-id>
+<offers>
+<offer sku="113863">
+<name>Умная зубная щетка Xiaomi Oclean X Pro Pink</name>
+<vendor>Xiaomi</vendor>
+<pickup-options>
+<pickup-option id="PP24"/>
+</pickup-options>
+<price>29990</price>
+</offer>
+</offers>
+</shop>
 </fm_catalog>
